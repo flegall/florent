@@ -1,6 +1,7 @@
 {
   "name": "florent",
   "version": "1.0.0",
+  "description": "Florent Le Gall",
   "main": "index.js",
   "repository": "https://github.com/flegall/florent.git",
   "author": "Florent Le Gall <florent.legall@gmail.com>",
